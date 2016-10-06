@@ -1,0 +1,17 @@
+C:\Users\X\AppData\Local\Temporary Projects\mem\bin\Debug\mem.exe
+C:\Users\X\AppData\Local\Temporary Projects\mem\bin\Debug\mem.pdb
+C:\Users\X\AppData\Local\Temporary Projects\mem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\X\AppData\Local\Temporary Projects\mem\obj\x86\Debug\mem.Form1.resources
+C:\Users\X\AppData\Local\Temporary Projects\mem\obj\x86\Debug\mem.Properties.Resources.resources
+C:\Users\X\AppData\Local\Temporary Projects\mem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\X\AppData\Local\Temporary Projects\mem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\X\AppData\Local\Temporary Projects\mem\obj\x86\Debug\mem.exe
+C:\Users\X\AppData\Local\Temporary Projects\mem\obj\x86\Debug\mem.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\mem\mem\obj\x86\Debug\mem.exe
+C:\Users\X\Documents\Visual Studio 2010\Projects\mem\mem\obj\x86\Debug\mem.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\mem\mem\bin\Debug\mem.exe
+C:\Users\X\Documents\Visual Studio 2010\Projects\mem\mem\bin\Debug\mem.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\mem\mem\obj\x86\Debug\mem.Form1.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\mem\mem\obj\x86\Debug\mem.Properties.Resources.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\mem\mem\obj\x86\Debug\mem.csprojResolveAssemblyReference.cache
+C:\Users\X\Documents\Visual Studio 2010\Projects\mem\mem\obj\x86\Debug\mem.csproj.GenerateResource.Cache
